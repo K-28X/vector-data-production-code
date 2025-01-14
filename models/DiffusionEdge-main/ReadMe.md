@@ -1,7 +1,4 @@
-## Contact
-If you have some questions, please contact with huangai@nudt.edu.cn.
-## Thanks
-Thanks to the base code [DDM-Public](https://github.com/GuHuangAI/DDM-Public).
+
 ## Citation
 ~~~
 @inproceedings{ye2024diffusionedge,
