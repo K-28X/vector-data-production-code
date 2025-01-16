@@ -1,3 +1,0 @@
-*.shp filter=lfs diff=lfs merge=lfs -text
-Xinjiang_2019and2023_parcel-level_vector_data/2019/xj_19_finres.shp filter=lfs diff=lfs merge=lfs -text
-Xinjiang_2019and2023_parcel-level_vector_data/2023/xj_23_finres.shp filter=lfs diff=lfs merge=lfs -text
